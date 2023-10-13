@@ -37,7 +37,7 @@ class FirstScreen extends StatelessWidget {
             //Icon di kiri appbar
             onPressed: () {},
             icon: const Icon(
-              Icons.search,
+              Icons.home,
               color: Colors.white,
             )),
       ),
