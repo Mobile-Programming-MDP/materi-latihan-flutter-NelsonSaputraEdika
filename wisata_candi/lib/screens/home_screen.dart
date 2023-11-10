@@ -33,4 +33,4 @@ class _HomeScreenState extends State<HomeScreen> {
       // TODO: 3. Buat ItemCard sebagai return value dari GridView.builder
     );
   }
-}7
+}
